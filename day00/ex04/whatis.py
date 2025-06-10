@@ -1,5 +1,3 @@
-# ex04/whatis.py
-
 import sys
 
 def main():
